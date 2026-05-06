@@ -20,7 +20,7 @@ Estudante de **Redes de Computadores** em busca da primeira oportunidade na áre
 - 🐍 Automação com Python  
 - ☁️ Fundamentos de AWS  
 
-📍 **Objetivo**: Atuar como Analista de Infraestrutura, Redes ou Suporte Técnico.
+📍 **Objetivo**: Atuar como Analista ou Desenvolvimento.
 
 ---
 
