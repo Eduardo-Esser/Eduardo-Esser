@@ -60,12 +60,11 @@ Estudante de **Redes de Computadores** em busca da primeira oportunidade na áre
 ## 📜 Certificações
 
 <p align="center">
-  <!-- Troque os src pelos links reais das suas imagens de certificado -->
-  <a href="https://www.credly.com/badges/5d1c1844-b57f-49ad-a033-1188130b93f7/public_url">
-    <img src="assets/google-ai-essentials.png" height="80" alt="Google AI Essentials">
+  <a href="https://www.credly.com/badges/793e1064-6384-45f6-bc95-581f96e0cedd/public_url">
+    <img src="assets/google-ai-essentials.png" height="80" alt="CCNA: Switching, Routing, and Wireless Essentials">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/4a37da4c-ace5-40f6-b4fe-93718df35eb8/public_url">
-    <img src="assets/prompting-essentials.png" height="80" alt="Google Prompting Essentials">
+  <a href="https://www.credly.com/badges/f322de35-e6e8-4279-a66c-3cc5dc79ac2f/linked_in_profile">
+    <img src="assets/prompting-essentials.png" height="80" alt="Linux Unhatched">
   </a>
 </p>
