@@ -1,4 +1,4 @@
-<h1 align="center">Eduardo Esser 👨🏽‍💻 </h1>
+<h1 align="center">Eduardo Esser 🤜🏻🤛🏻 </h1>
 <p align="center">
   Estudante de Redes de Computadores | Desenvolvimento e Infraestrutura/TI
 </p>
@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 📌 Sobre mim
 
 Estudante de **Redes de Computadores** em busca da primeira oportunidade na área de TI. Transformo conhecimento técnico em soluções práticas. Tenho interesse em:
 
