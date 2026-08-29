@@ -20,7 +20,7 @@ Estudante de **Redes de Computadores** em busca da primeira oportunidade na áre
 - 🐍 Automação com Python  
 - ☁️ Fundamentos de AWS  
 
-📍 **Objetivo**: Atuar como Analista ou Desenvolvimento.
+📍 **Objetivo**: Atuar como Analista ou Desenvolvedor Web.
 
 ---
 
@@ -47,13 +47,13 @@ Estudante de **Redes de Computadores** em busca da primeira oportunidade na áre
 
 ---
 
-## 🚀 Projetos em destaque
+//## 🚀 Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|--------------|
-| [Monitor de Rede](#) | Script para monitorar latência e perda de pacotes | Python, Ping |
-| [Site de Portfólio](#) | Página pessoal responsiva | HTML, CSS, JS |
-| [Analisador de Logs](#) | Ferramenta para identificar erros em logs de servidor | Python, Regex |
+//| Projeto | Descrição | Tecnologias |
+//|---------|-----------|--------------|
+//| [Monitor de Rede](#) | Script para monitorar latência e perda de pacotes | Python, Ping |
+//| [Site de Portfólio](#) | Página pessoal responsiva | HTML, CSS, JS |
+//| [Analisador de Logs](#) | Ferramenta para identificar erros em logs de servidor | Python, Regex |
 
 ---
 
