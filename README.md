@@ -47,16 +47,42 @@ Estudante de **Redes de Computadores** em busca da primeira oportunidade na áre
 
 ---
 
-//## 🚀 Projetos em destaque
+## 🚀 Projetos em destaque
 
-//| Projeto | Descrição | Tecnologias |
-//|---------|-----------|--------------|
-//| [Monitor de Rede](#) | Script para monitorar latência e perda de pacotes | Python, Ping |
-//| [Site de Portfólio](#) | Página pessoal responsiva | HTML, CSS, JS |
-//| [Analisador de Logs](#) | Ferramenta para identificar erros em logs de servidor | Python, Regex |
+<!--
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|--------------|
+| [Monitor de Rede](#) | Script para monitorar latência e perda de pacotes | Python, Ping |
+| [Site de Portfólio](#) | Página pessoal responsiva | HTML, CSS, JS |
+| [Analisador de Logs](#) | Ferramenta para identificar erros em logs de servidor | Python, Regex |
+-->
+
+<table align="center">
+  <tr>
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Tecnologias</th>
+  </tr>
+  <tr>
+    <td><a href="#">Monitor de Rede</a></td>
+    <td>Script para monitorar latência e perda de pacotes</td>
+    <td>Python, Ping</td>
+  </tr>
+  <tr>
+    <td><a href="#">Site de Portfólio</a></td>
+    <td>Página pessoal responsiva</td>
+    <td>HTML, CSS, JS</td>
+  </tr>
+  <tr>
+    <td><a href="#">Analisador de Logs</a></td>
+    <td>Ferramenta para identificar erros em logs de servidor</td>
+    <td>Python, Regex</td>
+  </tr>
+</table>
 
 ---
 
+<!--
 ## 📜 Certificações
 
 <p align="center">
@@ -68,3 +94,4 @@ Estudante de **Redes de Computadores** em busca da primeira oportunidade na áre
     <img src="assets/prompting-essentials.png" height="80" alt="Linux Unhatched">
   </a>
 </p>
+-->
